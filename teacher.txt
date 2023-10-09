@@ -1,0 +1,4 @@
+1	Bhpendra sir,gkp	11-f	maths	M	surajkund,gkp	8467584175	
+2	Pratyanshu sir	11-G	physics	M	shastri nagar,gkp	8536276410	
+3	Manoj sir	11-f	computer	M	baxipur,gkp	8563017264	
+4	Vinay sir	11-f	chemistry	M	asuran,gkp	8104528452	
